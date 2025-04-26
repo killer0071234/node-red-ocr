@@ -1,10 +1,10 @@
 {
-  "name": "@martip/node-red-ocr",
-  "version": "1.0.0",
+  "name": "@killer0071234/node-red-ocr",
+  "version": "1.0.1",
   "description": "Node-RED node for performing OCR on images, using tesseract.js.",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/martip/node-red-ocr.git"
+    "url": "git+https://github.com/killer0071234/node-red-ocr.git"
   },
   "keywords": [
     "node-red",
